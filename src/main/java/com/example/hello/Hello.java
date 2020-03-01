@@ -7,6 +7,10 @@ public class Hello {
 		System.out.println("Hello, Ankush!");
 		System.out.println("Hello, Ankush!");
 		System.out.println("Hello, Ankush!");
+				System.out.println("Hello, Ankush!");
+
+				System.out.println("Hello, Ankush!");
+
 
 	}
 	
